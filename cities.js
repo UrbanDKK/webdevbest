@@ -1,6 +1,4 @@
-export default function Cities() {
- 
-var city = [       "Alabama", 
+var city = ["Alabama", 
         "Abbeville",
         "Adamsville",
         "Addison",
@@ -25555,7 +25553,5 @@ var city = [       "Alabama",
         "Wright",
         "Yoder",
         "Y-o Ranch"];
-        
-         return city;
-}
+module.exports = { cities };
 
