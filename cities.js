@@ -1,4 +1,5 @@
-var city = ["Alabama", 
+function getData() {
+  array  = ["Alabama", 
         "Abbeville",
         "Adamsville",
         "Addison",
@@ -25553,5 +25554,6 @@ var city = ["Alabama",
         "Wright",
         "Yoder",
         "Y-o Ranch"];
-module.exports = { cities };
+ return array;
+}
 
