@@ -1,4 +1,6 @@
-var countries = [       "Alabama", 
+export default function Cities() {
+ 
+var city = [       "Alabama", 
         "Abbeville",
         "Adamsville",
         "Addison",
@@ -25553,4 +25555,7 @@ var countries = [       "Alabama",
         "Wright",
         "Yoder",
         "Y-o Ranch"];
+        
+         return city;
+}
 
